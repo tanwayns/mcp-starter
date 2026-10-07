@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Replication of TradingView Markets featuring real-time quotes, interactive multi-timeframe charts with candlestick and area modes, global indices, stocks, crypto, forex, sector heatmap, and market movers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
